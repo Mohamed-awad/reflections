@@ -120,11 +120,11 @@ a.aa2:hover{
 	margin: 0px;
 	background-color: yellow;
 	text-align: left;
-	width: 240px;
+	width: 17%;
 }
 #div3{
 	background-color: rgb(90,90,90);
-	width: 1113px;
+	width: 83%;
 	height: 400px;
 	float: right;
 	
@@ -133,7 +133,7 @@ a.aa2:hover{
 	margin: 0px;
 	padding: 0px;
 	background-color: white;
-	width: 1113px;
+	width: 83%;
 	height: 460px;
 	float: right;
 }
@@ -141,7 +141,7 @@ a.aa2:hover{
 	margin: 0px;
 	padding: 0px;
 	background-color: white;
-	width: 1113px;
+	width: 83%;
 	height: 530px;
 	float: right;
 }
@@ -149,7 +149,7 @@ a.aa2:hover{
 	margin: 0px;
 	padding: 0px;
 	background-color: white;
-	width: 1113px;
+	width: 83%;
 	height: 300px;
 	float: right;
 }
@@ -157,7 +157,7 @@ a.aa2:hover{
 	margin: 0px;
 	padding: 0px;
 	background-color: #eeeeee;
-	width: 1113px;
+	width: 83%;
 	height: 500px;
 	float: right;
 }
@@ -271,11 +271,21 @@ a.btn5:hover , a.btn6:hover{
 	margin: 15px;
 	background-color: white;
 }
+
+#div10_1{
+	padding: 0px;
+	margin-top: 15px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	margin-left: 60px; 
+	background-color: white;
+}
+
 #div444{
 	margin: 0px;
 	padding: 0px;
 	background-color: #eeeeee;
-	width: 1113px;
+	width: 83%;
 	height: 300px;
 	float: right;
 }
@@ -298,7 +308,7 @@ a.btn5:hover , a.btn6:hover{
 	margin: 0px;
 	padding: 0px;
 	background-color: #eeeeee;
-	width: 1113px;
+	width: 83%;
 	height: 700px;
 	float: right;
 }
