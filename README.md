@@ -19,4 +19,3 @@ you need to install :-
 
 just open the directory of project and open index.html file 
 
-# That`s it cool
